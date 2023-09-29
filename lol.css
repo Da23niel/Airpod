@@ -1,0 +1,50 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.xyz{
+    margin-left: 5rem;
+    border: none;
+}
+h1{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    padding: 15px;
+    margin-bottom: 1rem;
+}
+.airpod2{
+    color: white;
+}
+p{
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin-left: 1rem;
+    
+}
+.audio{
+    display: flex;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+img{
+    margin-left: 1rem;
+    border: none;
+    border-radius: 3px;
+    margin-right: 3rem;
+}
+.green{
+    color: green;
+}
+.foot{
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
