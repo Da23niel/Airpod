@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+}
+
+h1{
+    color: #e24be7;
+    background: linear-gradient(45deg, pink, purple, blue);
+    font-size: 3rem;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.pods{
+    display: flex;
+}
+.blue{
+    color: blue;
+}
+.about{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.4rem;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    color: purple;   
+}
+
+img{
+    margin-right: 1.5rem;
+}
+.mini{
+    justify-content: center;
+    text-align: center;
+}
+.maxi{
+    justify-content: center;
+    text-align: center;
+}
+.a99{
+    
+    justify-content: center;
+    text-align: center;
+}
+.foot{
+    color: black;
+    background: linear-gradient(45deg, purple, pink,  blue);
+    font-size: 1rem;
+    padding: 0;
+    margin: 0;
+}
